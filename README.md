@@ -17,7 +17,7 @@ This repository provides Jupyter notebooks and utilities to help researchers:
 
 - **Python 3.7+**
 - **Jupyter Notebook**
-- **API keys** (for APIs that require authentication, e.g., Scopus, IEEE)
+- **API keys** (obtain APIs for databases that recommend or require authentication, e.g., NCBI, Scopus, IEEE)
 
 ### Optional
 
