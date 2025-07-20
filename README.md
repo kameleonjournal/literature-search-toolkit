@@ -15,6 +15,7 @@ This repository provides Jupyter notebooks and utilities to help researchers:
 ### Prerequisites
 
 - **Python 3.10+**
+- **Git (for cloning this repository)**
 - **API keys** (obtain for databases requiring authentication, e.g., NCBI, Scopus, IEEE)
   
 #### Optional
