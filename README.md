@@ -7,7 +7,7 @@ A Python toolkit with Jupyter notebooks for refining literature searches and exp
 This repository provides Jupyter notebooks and utilities to help researchers:
 
 - **Refine keyword search strategies** for systematic literature reviews.
-- **Download and export search results** as CSV files from APIs such as PubMed, IEEE, Scopus, and arXiv.
+- **Download and export search results** as CSV files from APIs such as PubMed, IEEE, Scopus, and arXiv. Ready to be used in ASreviews (or manual screening)
 - **Future plans:** Add support for more APIs and tools to generate PRISMA flowcharts.
 
 ## Getting Started
@@ -15,10 +15,8 @@ This repository provides Jupyter notebooks and utilities to help researchers:
 ### Prerequisites
 
 - **Python 3.10+**
-- **Jupyter Notebook**
 - **API keys** (obtain for databases requiring authentication, e.g., NCBI, Scopus, IEEE)
-- **ASreview** (for screening CSVs after download)
-
+  
 #### Optional
 
 - **Visual Studio Code** for local code editing and execution
@@ -50,6 +48,8 @@ A template file, `.env.example`, is provided in the repository's root directory.
 > Each user should maintain their own `.env` locally for security and privacy.
 
 #### 3. Install Dependencies
+
+Installing will install all dependenices from `requirements.txt` file
 
 ```bash
 pip install -r requirements.txt
