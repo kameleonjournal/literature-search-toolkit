@@ -17,6 +17,7 @@ This repository provides Jupyter notebooks and utilities to help researchers:
 - **Python 3.10+**
 - **Jupyter Notebook**
 - **API keys** (obtain for databases requiring authentication, e.g., NCBI, Scopus, IEEE)
+- **ASreview** (for screening CSVs after download)
 
 #### Optional
 
