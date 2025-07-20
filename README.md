@@ -53,7 +53,7 @@ A template file, `.env.example`, is provided in the repository's root directory.
 Installing will install all dependenices from `requirements.txt` file
 
 This includes
--Jupyter: An interactive notebook tool for writing and running code, visualizing data, and sharing your work in one place.
+- Jupyter: An interactive notebook tool for writing and running code, visualizing data, and sharing your work in one place.
 - python-dotenv: A helper library that loads secret keys and settings from a .env file, making it easy to manage configuration safely.
 - requests: A simple library for making HTTP requests in Python, allowing you to connect with websites and APIs easily.
 - asreview: An open-source platform that uses machine learning to help researchers review large collections of scientific papers efficiently.
