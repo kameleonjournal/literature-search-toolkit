@@ -25,6 +25,9 @@ This repository provides Jupyter notebooks and utilities to help researchers:
 
 ### Installation
 
+#### Pre-requisite
+Ensure you have a GitHub account, and you have [generated your SSH key](url)
+
 #### 1. Clone the Repository
 
 ```bash
