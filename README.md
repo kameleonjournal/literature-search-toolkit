@@ -24,12 +24,11 @@ This repository provides Jupyter notebooks and utilities to help researchers:
 - **Postman** for testing API queries
 
 ### Installation
+Follow these steps to set up the toolkit on your local machine.
 
 #### Pre-requisite
 Ensure you have a GitHub account, and you have [generated your SSH key](url)
 
-Installation
-Follow these steps to set up the toolkit on your local machine.
 
 #### 1. Fork and Clone the Repository
 First, create your own copy of this repository on GitHub before downloading it.
