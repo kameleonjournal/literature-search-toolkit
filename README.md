@@ -28,10 +28,19 @@ This repository provides Jupyter notebooks and utilities to help researchers:
 #### Pre-requisite
 Ensure you have a GitHub account, and you have [generated your SSH key](url)
 
-#### 1. Clone the Repository
+Installation
+Follow these steps to set up the toolkit on your local machine.
+
+#### 1. Fork and Clone the Repository
+First, create your own copy of this repository on GitHub before downloading it.
+
+Fork it: Click the Fork button at the top-right of this page to create a copy under your GitHub account.
+
+Clone your fork: On your forked repository's page, click the green < > Code button, and copy the repository URL (SSH or HTTPS). Then, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/literature-search-toolkit.git
+# Replace the URL with the one from your forked repository
+git clone https://github.com/your-username/literature-search-toolkit.git
 cd literature-search-toolkit
 ```
 
