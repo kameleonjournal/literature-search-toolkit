@@ -20,7 +20,7 @@ This repository provides Jupyter notebooks and utilities to help researchers:
   
 #### Optional
 
-- **Visual Studio Code** for local code editing and execution
+- **Visual Studio Code** for local code editing and execution, or connect it to GitHub directly
 - **Postman** for testing API queries
 
 ### Installation
